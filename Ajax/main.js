@@ -1,0 +1,1 @@
+const weatherDescription = document.querySelector(".weather_description");
